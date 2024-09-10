@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368085035760",
+    "project_id": "mecanomobile-76f54",
+    "storage_bucket": "mecanomobile-76f54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368085035760:android:27ac99c4dcceb1ce3fb035",
+        "android_client_info": {
+          "package_name": "com.example.mapas_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjYB5bTRvTn-Q-jfHljE6Oelnax2ZcnDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
